@@ -1,0 +1,104 @@
+.c3 {
+    
+}
+.c3-wrap{
+    background-image: url(../../images/c3-1-bg.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 4.2rem 4rem 3rem 3.6rem;
+    width: 36.7rem;
+    height: 66.1rem;
+    margin-top: 6rem;
+}
+.c3-wrap-1{
+    background-image: url(../../images/c3-2-bg.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 4.2rem 4rem 3rem 3.6rem;
+    width: 36.7rem;
+    height: 51.5rem;
+    margin-top: 6rem;
+}
+
+.c3-p1{
+    font-family: var(--font-family);
+    font-weight: 500;
+    font-size: 3rem;
+    color: #fff;
+
+}
+.c3-p2{
+    font-family: var(--font-family);
+    font-weight: 500;
+    font-size: 1.6rem;
+    text-transform: uppercase;
+    color: #142eed;
+
+}
+.c3-p3{
+    font-family: var(--font-family);
+    font-weight: 700;
+    font-size: 2.3rem;
+    line-height: 130%;
+    color: #fff;
+    margin-bottom: 3.8rem;
+}
+.c3-p4{
+    font-family: var(--font-family);
+    font-weight: 700;
+    font-size: 1.5rem;
+    color: #ffeab5;
+    margin-bottom: 2.3rem;
+}
+.c3-p5{
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 1.5rem;
+    color: #fff;
+    margin-bottom: 5.3rem;
+}
+.c3-price{
+    font-family: var(--font-family);
+font-weight: 400;
+font-size: 1.8rem;
+letter-spacing: 0.1em;
+text-transform: uppercase;
+text-align: center;
+color: #939393;
+margin-bottom: 1.3rem;
+}
+.c3-price-num{
+    font-family: 'Cormorant';
+font-style: italic;
+font-weight: 500;
+font-size: 9rem;
+line-height: 44%;
+text-align: center;
+color: #9fbfe2;
+margin-bottom: 1.9rem;
+}
+.c3-price-eco{
+    font-family: var(--font-family);
+font-weight: 700;
+font-size: 1.8rem;
+text-align: center;
+color: #ffeab5;
+}
+.c3-btn{
+    height: 7.5rem;
+    width: 32rem;
+    background: #142eed;
+    border-radius: 15rem;
+    font-family: var(--font-family);
+    font-weight: 700;
+    font-size: 1.8rem;
+    text-align: center;
+    color: #fff;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    position: relative;
+    left: 50%;
+    transform: translate(-50%);
+    margin-top: 4.5rem;
+}
