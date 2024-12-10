@@ -20,19 +20,7 @@ margin-bottom: -7rem;
 
 }
 
-@media (min-width: 768px) {
-  .itc-slider-item {
-    flex: 0 0 50%;
-    max-width: 50%;
-  }
-}
 
-@media (min-width: 1200px) {
-  .itc-slider-item {
-    flex: 0 0 33.3333333333%;
-    max-width: 33.3333333333%;
-  }
-}
 
 .itc-slider-items {
   display: flex;
