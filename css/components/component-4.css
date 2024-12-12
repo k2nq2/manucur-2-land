@@ -1,0 +1,58 @@
+.c4{
+    background-image: url(../../images/c4-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 98.5rem;
+    padding-top: 10.3rem;
+}
+.c4-wrap{
+    display: flex;
+    gap: 3rem;
+    padding: 3rem 3.9rem 3rem 0rem;
+    align-items: flex-start;
+    border-top: 1px solid rgba(49, 49, 49, 0.5);
+
+}
+.c4-num{
+    font-family: 'Cormorant';
+    font-style: italic;
+    font-weight: 500;
+    font-size: 6rem;
+    line-height: 67%;
+    color: #9fbfe2;
+    margin-top: -1rem;
+}
+.c4-text{
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 1.5rem;
+    color: #fff;
+}
+.c4-accent{
+    font-family: var(--font-family);
+    font-style: italic;
+    font-weight: 400;
+    font-size: 1.5rem;
+    color: #9fbfe2;
+    margin-top: 2rem;
+}
+.c4-after-wrap{
+    width: 36.7rem;
+    height: 15rem;
+    position: relative;
+    left: 50%;
+    transform: translate(-50%);
+    background-image: url(../../images/c4-after.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: flex;
+    gap: 0.9rem;
+    align-items: flex-start;
+    padding: 2.4rem 5rem 6.5rem 7.1rem;
+}
+.c4-after-wrap p{
+    font-family: var(--font-family);
+font-weight: 400;
+font-size: 1.4rem;
+color: #6d7985;
+}
