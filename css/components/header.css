@@ -59,7 +59,14 @@ margin-bottom: 2.5rem;
     flex-direction: column;
     gap: 1.3rem;
 }
-
+.header-lesson-1:hover{
+    background-image: url(../../images/lesson-1-active.png);
+    z-index: 3;
+}
+.header-lesson-2:hover{
+    background-image: url(../../images/lesson-2-active.png);
+    z-index: 3;
+}
 
 .active{
     background-image: url(../../images/lesson-1-active.png);
