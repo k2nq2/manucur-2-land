@@ -62,11 +62,11 @@ margin-bottom: 2.5rem;
 
 
 .active:first-child{
-    background-image: url(../../images/lesson-1-active.png);
+    border: 1px solid #9fbfe2 !important;
     z-index: 20;
 }
 .lesson2{
-    background-image: url(../../images/lesson-2-active.png) !important;
+   border: 1px solid #9fbfe2 !important;
 }
 .header-lesson-2{
     width: 19.3rem;
