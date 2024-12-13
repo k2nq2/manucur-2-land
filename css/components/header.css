@@ -64,9 +64,11 @@ margin-bottom: 2.5rem;
 .active:first-child{
     border: 1px solid #9fbfe2 !important;
     z-index: 20;
+    border-radius: 3rem;
 }
 .lesson2{
    border: 1px solid #9fbfe2 !important;
+     border-radius: 3rem;
 }
 .header-lesson-2{
     width: 19.3rem;
