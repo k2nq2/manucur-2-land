@@ -40,6 +40,6 @@ $(".clickit").click(function() {
   var href = $(this).attr('href');
 
        // Delay setting the location 
-  setTimeout(function() {window.location = href}, 1000);
+  setTimeout(function() {window.location = href}, 500);
   return false;
 });
