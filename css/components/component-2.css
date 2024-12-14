@@ -1,0 +1,81 @@
+.c2 {
+    padding-top: 6rem;
+}
+
+.c2-content {
+    position: relative;
+    margin-top: 2.5rem;
+}
+
+.c2-title{
+    font-family: var(--second-family);
+font-weight: 400;
+font-size: 2.5rem;
+color: #fff;
+margin-bottom: 4.3rem;
+padding-left: 3.9rem;
+}
+.c2-wrap{
+    display: flex;
+    gap: 2.4rem;
+    align-items: center;
+
+}
+.c2-wrap p{
+    font-family: var(--font-family);
+font-weight: 400;
+font-size: 1.5rem;
+color: #fff;
+width: 18rem;
+}
+.c2-wrap img{
+    width: 9.8rem;
+    height: 100%;
+
+}
+.c2-lessons-wrap{
+    background-image: url(../../images/c3-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 36.7rem;
+    height: 47.1rem;
+    padding: 3.4rem 5.5rem 4.3rem 3.4rem;
+    margin-top: 6.3rem;
+    border: 1px solid rgba(18, 18, 18, 1);
+    border-radius: 4rem;
+}
+.c2-lessons-top{
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 1.6rem;
+    color: #fff;
+    margin-bottom: 3.2rem;
+}
+.c2-lessons-mid{
+    font-family: var(--font-family);
+    font-weight: 700;
+    font-size: 3rem;
+    line-height: 77%;
+    color: #fff;
+    margin-bottom: 2.3rem;
+}
+.c2-lessons-bot{
+    font-family: var(--font-family);
+    font-weight: 600;
+    font-size: 1.5rem;
+    color: #fff;
+    margin-bottom: 3rem;
+}
+.c2-lessons-wrap ul{
+    list-style-type: disc;
+    padding-left: 1.5rem;
+    display: flex;
+    gap: 1rem;
+    flex-direction: column;
+}
+.c2-lessons-wrap ul li{
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 1.4rem;
+    color: #fff;
+}
